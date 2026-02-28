@@ -2,4 +2,9 @@
 
 ## Wiki
 
+<details>
+<summary>首頁 Home</summary>
+
 - [首頁 Home](https://github.com/EquationMinds/equationminds.github.io/wiki/Home)
+
+</details>
